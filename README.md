@@ -3,8 +3,9 @@
  The player who pilots a modified low poly car must make their way into an asteroid field infested with enemy spaceships
  
  # Deveopment roadmap
- - tweak and improve the flight system;
- - add main player model and the main enemy models;
+ - tweak and improve the flight system;                                                     [x]
+ - add main player model;                                                                   [x]
+ - add the main enemy models;                                                               [wip]
  - onfigure and add a game loop with spawns;
  - configure particle system;
  - make a damage system;
